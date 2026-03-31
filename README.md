@@ -1,6 +1,12 @@
-# Preflight
+<p align="center">
+  <img src="docs/logo.svg" alt="Preflight" width="100">
+</p>
 
-**Think before you build.** A universal protocol that makes AI coding agents design before they code.
+<h1 align="center">Preflight</h1>
+
+<p align="center">
+  <strong>Think before you build.</strong> A universal protocol that makes AI coding agents design before they code.
+</p>
 
 Preflight defines 5 mandatory phases every agent completes before writing code: **Orient, Clarify, Approach, Confirm, Execute.** It works with any AI coding agent — no runtime, no API key, one file.
 
